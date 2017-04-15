@@ -3,7 +3,7 @@ package sorting;
 public class bubblesort {
 
 	public static void main(String[] args) {
-		int array[]={5,8,3,2,7,1,8,9,1,5,4};
+		int  array[]={5,8,3,2,7,1,8,9,1,5,4};
 		boolean swapped=true;
 		int i=0;
 	while(swapped){
